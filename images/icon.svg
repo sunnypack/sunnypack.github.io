@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: SavoyeLetPlain, 'Savoye LET';
+        font-size: 72px;
+      }
+
+      .cls-2 {
+        fill: #48c2c5;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="70.87" cy="70.87" r="61.57"/>
+  <text class="cls-1" transform="translate(42.45 74.82)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-1" transform="translate(64.82 108.61)"><tspan x="0" y="0">B</tspan></text>
+</svg>
